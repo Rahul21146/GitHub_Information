@@ -42,7 +42,7 @@ function init(){
     console.log("false k andar");
     lightModeProperties();
   }
-  getUserData(url+"thepranaygupta");
+  getUserData(url+"Rahul21146");
   
 }
 
